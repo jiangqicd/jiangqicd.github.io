@@ -17,7 +17,7 @@ BSc in Electrical Engineering and Automation, 2015-2019, <span style="color:grey
 
 
 ## News (Last Update: 06/01/2022) 
-**Jun. 2022** I am a Computer Science and Technology PhD candidate.
+**Jun. 2022** I am a PhD candidate in Computer Science and Technology.
 
 **Jun. 2021** I join Huawei Cloud as a Research Intern @Hangzhou.
 
