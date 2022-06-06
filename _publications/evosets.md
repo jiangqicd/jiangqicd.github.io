@@ -1,5 +1,5 @@
 ---
-title: "DTEvoSets: Tracking the Sensitivity of Dimensionality Reduction Results Across Subspaces"
+title: "EvoSets: Tracking the Sensitivity of Dimensionality Reduction Results Across Subspaces"
 collection: publications
 permalink: /publications/evosets
 date: 2021-05-11
