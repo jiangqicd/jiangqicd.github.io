@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "JiangQi"
 title_separator          : "-"
-name                     : &name "JiangQi(江棨)"
+name                     : &name "JiangQi"
 description              : &description "Ph.D candidate at Zhejiang University of Technology"
 url                      : https://jiangqicd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
